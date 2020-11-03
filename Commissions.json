@@ -1,0 +1,50 @@
+{
+	"Standard": {
+		"opened": true,
+		"items": [{
+			"title": "Stickers",
+			"description": "$2.50 for 1 / $5 for 3",
+			"images": ["mRZIicB.png"]
+		}, {
+			"title": "Avatars",
+			"description": "$5 (+$2 per added character)",
+			"images": ["2BNtT9o.png"]
+		}, {
+			"title": "Headshots",
+			"description": "$5 (+$2 per added character)",
+			"images": ["CDiBE7y.png"]
+		}, {
+			"title": "Fullbodies",
+			"description": "$10 (+$5 per added character)",
+			"images": ["GN4RcjU.png"]
+		}, {
+			"title": "Reference Sheet",
+			"description": "$20 (includes 1 fullbody, headshot, and color palette/accessories)\nExtra details (ex: outfits) can increase the price up to $30 max.",
+			"images": ["bvDj33t.png"]
+		}]
+	},
+	"Animated": {
+		"opened": true,
+		"items": [{
+			"title": "Wiggle Avatar",
+			"description": "$8 (+$2 per added character)",
+			"images": ["1Q6XfKK.gif"]
+		}]
+	},
+	"Pixel": {
+		"opened": true,
+		"items": [{
+			"title": "Pagedoll",
+			"description": "$8 (+$5 per added character)\nSize can be 250x250 or 350x350",
+			"images": ["DFTk06b.png"]
+		}]
+	},
+	"Emojis": {
+		"opened": true,
+		"items": [{
+			"title": "Emojis",
+			"description": "$2 for 1 / $5 for 3 (+$2 per animated)",
+			"images": ["pDvc0Tp.png", "k3oDitx.png", "yZDFKjL.png"]
+		}]
+	}
+}
