@@ -28,7 +28,7 @@
 		}]
 	},
 	"Animated": {
-		"opened": true,
+		"opened": false,
 		"items": [{
 			"title": "Wiggle Avatar",
 			"description": "$8 (+$2 per added character)\nshading unavailable",
