@@ -3,7 +3,7 @@
 		"opened": true,
 		"items": [{
 			"title": "Stickers",
-			"description": "$2.50 for 1 / $5 for 3\nShading Unavailable",
+			"description": "$2.50 for 1 / $5 for 3\nshading unavailable",
 			"images": ["jwhHA2x.png", "MD8Glr9.png"]
 		}, {
 			"title": "Avatars",
@@ -31,7 +31,7 @@
 		"opened": true,
 		"items": [{
 			"title": "Wiggle Avatar",
-			"description": "$8 (+$2 per added character) [SHADING UNAVAILABLE]",
+			"description": "$8 (+$2 per added character)\nshading unavailable",
 			"images": ["1Q6XfKK.gif"]
 		}]
 	},
@@ -39,7 +39,7 @@
 		"opened": true,
 		"items": [{
 			"title": "Pagedoll",
-			"description": "$8 (+$5 per added character)\nSize can be 250x250 or 350x350",
+			"description": "$8 (+$5 per added character)\nsize can be 250x250 or 350x350",
 			"images": ["DFTk06b.png"]
 		}]
 	},
