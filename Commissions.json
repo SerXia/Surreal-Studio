@@ -3,7 +3,8 @@
 		"opened": true,
 		"items": [{
 			"title": "Stickers",
-			"description": "$2.50 for 1 / $5 for 3 [SHADING UNAVAILABLE]",
+			"description": "$2.50 for 1 / $5 for 3" 
+			"[SHADING UNAVAILABLE]",
 			"images": ["jwhHA2x.png", "MD8Glr9.png"]
 		}, {
 			"title": "Avatars",
